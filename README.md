@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sangamesh MK
+## 👋 Hi, 𝗜 𝗔𝗠 𝗦𝗔𝗡𝗚𝗔𝗠𝗘𝗦𝗛 𝗠𝗞
 
 🎓 Computer Science and Engineering Student  
 💻 Aspiring Software Engineer & Software Developer  
@@ -12,7 +12,6 @@
 - 💻 Currently learning **Python, programming fundamentals, and problem solving**
 - 🧩 Practicing coding on platforms like **LeetCode, HackerRank, and Codeforces**
 - 🌐 Interested in **Web Development, App Development, and AI-based systems**
-- 📚 Preparing for **GATE (CSE)** while building strong computer science fundamentals
 - 🎯 Long-term goal: Become a **top software engineer and technology creator**
 
 ---
