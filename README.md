@@ -1,6 +1,30 @@
-# 💫 About Me:
-Hiii
+## 👋 Hi, I'm Sangamesh MK
 
+🎓 Computer Science and Engineering Student  
+💻 Aspiring Software Engineer & Software Developer  
+🚀 Passionate about building technology, solving problems, and learning new skills.
+
+---
+
+## 🧠 About Me
+
+- 🎓 B.Tech CSE student exploring **software development, AI, and data engineering**
+- 💻 Currently learning **Python, programming fundamentals, and problem solving**
+- 🧩 Practicing coding on platforms like **LeetCode, HackerRank, and Codeforces**
+- 🌐 Interested in **Web Development, App Development, and AI-based systems**
+- 📚 Preparing for **GATE (CSE)** while building strong computer science fundamentals
+- 🎯 Long-term goal: Become a **top software engineer and technology creator**
+
+---
+
+## 📈 Current Focus
+
+- Strengthening **problem-solving skills**
+- Building **projects and open-source contributions**
+- Developing **web and mobile applications**
+- Exploring **Artificial Intelligence and Data Engineering**
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/n8K3Unqde) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Li6o6mmM8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sangamesh_mk.94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sangamesh-m-kuri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sangameshkuri94) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@maturedmind_official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
@@ -15,6 +39,6 @@ Hiii
 ---
 [![](https://visitcount.itsvg.in/api?id=Sangamesh_MK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]
-  
+
+⭐ **Always learning. Always building.**
+
