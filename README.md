@@ -34,11 +34,24 @@
 
 ## 🌐 𝗦𝗢𝗖𝗜𝗔𝗟𝗦 »»
 
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SangameshMK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sangamesh-m-kuri/)
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/n8K3Unqde) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/1Li6o6mmM8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sangamesh_mk.94/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangamesh-m-kuri/) [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Sangameshkuri94)
- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maturedmind_official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
+[![Twitter](https://img.shields.io/badge/Twitter-SangameshKuri-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sangameshkuri94)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
+
+[![Facebook](https://img.shields.io/badge/Facebook-SangameshMK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/share/1Li6o6mmM8)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Matured%20Mind-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@maturedmind_official)
+
+[![Instagram](https://img.shields.io/badge/Instagram-SangameshMK-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sangamesh_mk.94/)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n8K3Unqde)
+</p>
+
 
 ----
 
