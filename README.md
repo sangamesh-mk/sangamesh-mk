@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 »»
+## 🙎 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 »»
 
 - 🎓 B.Tech CSE student exploring **software development, AI, and data engineering**
 - 💻 Currently learning **Python, programming fundamentals, and problem solving**
