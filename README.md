@@ -43,7 +43,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-SangameshMK-1877F2?logo=facebook&logoColor=white)](https://facebook.com/share/1Li6o6mmM8)
 [![YouTube](https://img.shields.io/badge/YouTube-MaturedMind-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@maturedmind_official)
 [![Discord](https://img.shields.io/badge/Discord-JoinServer-5865F2?logo=discord&logoColor=white)](https://discord.gg/n8K3Unqde)
-[![Instagram](https://img.shields.io/badge/Instagram-sangamesh_mk.94-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sangamesh_mk.94/)
+[![Instagram](https://img.shields.io/badge/Instagram-sangamesh_mk.94-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sangamesh%5Fmk.94/)
 
 </p>
 
