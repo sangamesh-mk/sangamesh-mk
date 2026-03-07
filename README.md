@@ -12,7 +12,7 @@
 🚀 Passionate about building technology, solving problems, and learning new skills.
 
 ---
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🙎 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 »»
 
 - 🎓 B.Tech CSE student exploring **software development, AI, and data engineering**
@@ -46,7 +46,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-sangamesh_mk.94-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sangamesh_mk.94/)
 
 </p>
-
 
 ----
 
