@@ -12,7 +12,7 @@
 🚀 Passionate about building technology, solving problems, and learning new skills.
 
 ---
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🙎 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 »»
 
 - 🎓 B.Tech CSE student exploring **software development, AI, and data engineering**
