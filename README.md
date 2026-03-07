@@ -38,7 +38,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SangameshMK-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangamesh-m-kuri/)
 [![Twitter](https://img.shields.io/badge/Twitter-SangameshKuri-000000?logo=x&logoColor=white)](https://x.com/Sangameshkuri94)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-sangameshmkuri94@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
 [![Facebook](https://img.shields.io/badge/Facebook-SangameshMK-1877F2?logo=facebook&logoColor=white)](https://facebook.com/share/1Li6o6mmM8)
 [![YouTube](https://img.shields.io/badge/YouTube-MaturedMind-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@maturedmind_official)
