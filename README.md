@@ -64,17 +64,12 @@
 
 
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangamesh-mk&show_icons=true&theme=default&count_private=true)
 
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sangamesh-mk&theme=default)
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-mk&layout=compact&theme=default)
 
 ## 📈 Activity Graph
 
@@ -85,6 +80,8 @@
 ## 🔗 GitHub Profile
 
 [Visit My GitHub Profile](https://github.com/sangamesh-mk)
+
+
 
 ⭐ **Always learning. Always building.**
 
