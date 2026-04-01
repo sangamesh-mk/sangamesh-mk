@@ -56,7 +56,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangamesh-mk&show_icons=true&theme=default&count_private=true)
+
 
 ## 🔥 Streak Stats
 
