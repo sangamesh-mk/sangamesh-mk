@@ -72,5 +72,27 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sangamesh-mk&theme=onedark&no-frame=true&margin-w=10)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangamesh-mk&show_icons=true&theme=default&count_private=true)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sangamesh-mk&theme=default)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-mk&layout=compact&theme=default)
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-mk&theme=github-light)
+
+---
+
+## 🔗 GitHub Profile
+
+[Visit My GitHub Profile](https://github.com/sangamesh-mk)
+
 ⭐ **Always learning. Always building.**
 
