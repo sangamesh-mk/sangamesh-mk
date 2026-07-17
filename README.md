@@ -67,10 +67,6 @@
 
 ---
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-mk&layout=compact&theme=tokyonight)
-
 ## 🔗 GitHub Profile
 
 [Visit My GitHub Profile](https://github.com/sangamesh-mk)
