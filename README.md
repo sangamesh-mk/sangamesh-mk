@@ -42,7 +42,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
 [![Facebook](https://img.shields.io/badge/Facebook-SangameshMKuri-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1MMwPKoQmx/)
 [![YouTube](https://img.shields.io/badge/YouTube-MaturedMind-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@sangameshmkuri)
-[![Discord](https://img.shields.io/badge/Discord-JoinServer-5865F2?logo=discord&logoColor=white)](https://discord.gg/n8K3Unqde)
 [![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sangamesh_mk.94/)
 
 </p>
