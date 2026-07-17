@@ -40,8 +40,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-SangameshKuri-000000?logo=x&logoColor=white)](https://x.com/Sangameshkuri94)
 [![Gmail](https://img.shields.io/badge/Gmail-sangameshmkuri94@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
-[![Facebook](https://img.shields.io/badge/Facebook-SangameshMK-1877F2?logo=facebook&logoColor=white)](https://facebook.com/share/1Li6o6mmM8)
-[![YouTube](https://img.shields.io/badge/YouTube-MaturedMind-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@maturedmind_official)
+[![Facebook](https://img.shields.io/badge/Facebook-Sangamesh M Kuri-1877F2?logo=facebook&logoColor=white)](https://facebook.com/share/1Li6o6mmM8)
+[![YouTube](https://img.shields.io/badge/YouTube-MaturedMind-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@sangameshmkuri)
 [![Discord](https://img.shields.io/badge/Discord-JoinServer-5865F2?logo=discord&logoColor=white)](https://discord.gg/n8K3Unqde)
 [![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sangamesh_mk.94/)
 
