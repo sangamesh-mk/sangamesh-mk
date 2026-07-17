@@ -57,7 +57,6 @@
 ## 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 »»
 
 
-## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sangamesh-mk&theme=default)
 
