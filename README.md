@@ -48,7 +48,7 @@
 
 ----
 
-# 💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 »»
+## 💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 »»
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,12 +56,12 @@
 
 ## 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 »»
 
-
+## Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sangamesh-mk&theme=default)
 
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-mk&theme=github-light)
 
