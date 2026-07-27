@@ -66,6 +66,19 @@
 
 --- 
 
+## 📝 Latest Blog Posts
+
+> Sharing my journey through technology, productivity, personal growth, and software development.
+
+- 🚀 [The Rise of Technology and AI](https://maturedmindinfo.blogspot.com/2026/04/the-rise-of-technology-and-artificial.html)
+- 📱 [30 Days of Learning Dart](#)
+- 🧠 [Why Consistency Beats Motivation](#)
+- 📚 [Books Every Student Developer Should Read](#)
+- ⚡ [How Small Daily Habits Create Big Results](#)
+
+➡️ **Explore all articles:** https://your-blog-link.com
+
+
 ## 🔗 GitHub Profile
 
 [Visit My GitHub Profile](https://github.com/sangamesh-mk)
