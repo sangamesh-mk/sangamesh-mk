@@ -56,6 +56,15 @@
 
 ## 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 »»
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangamesh-mk&show_icons=true)
+
+## Streak Stats
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sangamesh-mk)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-mk&layout=compact)
+
 ## Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sangamesh-mk&theme=default)
