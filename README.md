@@ -71,12 +71,10 @@
 > Sharing my journey through technology, productivity, personal growth, and software development.
 
 - 🚀 [The Rise of Technology and AI](https://maturedmindinfo.blogspot.com/2026/04/the-rise-of-technology-and-artificial.html)
-- 📱 [30 Days of Learning Dart](#)
-- 🧠 [Why Consistency Beats Motivation](#)
-- 📚 [Books Every Student Developer Should Read](#)
-- ⚡ [How Small Daily Habits Create Big Results](#)
+- 🧠 [How to Stay Consistent Even When You Feel Lazy](https://maturedmindinfo.blogspot.com/2026/04/stay-consistent-even-when-you-feel-lazy.html)
+- ⚡ [10 Powerful Ways to Improve Your Learning Skills and Study Smarter](https://maturedmindinfo.blogspot.com/2026/04/improve-learning-skills-study-smarter.html)
 
-➡️ **Explore all articles:** https://your-blog-link.com
+➡️ **Explore all articles:** https://maturedmindinfo.blogspot.com
 
 
 ## 🔗 GitHub Profile
