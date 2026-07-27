@@ -65,6 +65,7 @@
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-mk&layout=compact)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-mk&layout=compact&cache_seconds=86400)
 
 ## Activity Graph
 
