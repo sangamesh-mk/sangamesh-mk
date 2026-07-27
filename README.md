@@ -50,21 +50,45 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=dart" width="50"/><br>
+      <b>Dart</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=c" width="50"/><br>
+      <b>C</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=flutter" width="50"/><br>
+      <b>Flutter</b>
+    </td>
+  </tr>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+      <b>VS Code</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/><br>
+      <b>Android Studio</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+      <b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+      <b>GitHub</b>
+    </td>
+  </tr>
+</table>
 
 ## 💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 »»
 
