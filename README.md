@@ -66,32 +66,21 @@
 
 --- 
 
-## ✍️ Writing & Insights
+## 📝 Latest Blog Posts
 
-> I write about **technology, artificial intelligence, productivity, personal growth, and lifelong learning** to share practical insights and experiences from my journey.
+>Sharing my journey through technology, productivity, personal growth, and software development.
 
 | S.No. | Article |
 |:----:|:---------|
-| 01 | 🚀 **[The Rise of Technology and Artificial Intelligence](https://maturedmindinfo.blogspot.com/2026/04/the-rise-of-technology-and-artificial.html)** |
-| 02 | 🧠 **[How to Stay Consistent Even When You Feel Lazy](https://maturedmindinfo.blogspot.com/2026/04/stay-consistent-even-when-you-feel-lazy.html)** |
-| 03 | ⚡ **[10 Powerful Ways to Improve Your Learning Skills and Study Smarter](https://maturedmindinfo.blogspot.com/2026/04/improve-learning-skills-study-smarter.html)** |
+| 01 | **[The Rise of Technology and Artificial Intelligence](https://maturedmindinfo.blogspot.com/2026/04/the-rise-of-technology-and-artificial.html)** |
+| 02 | **[How to Stay Consistent Even When You Feel Lazy](https://maturedmindinfo.blogspot.com/2026/04/stay-consistent-even-when-you-feel-lazy.html)** |
+| 03 | **[10 Powerful Ways to Improve Your Learning Skills and Study Smarter](https://maturedmindinfo.blogspot.com/2026/04/improve-learning-skills-study-smarter.html)** |
 
 <p align="center">
   <a href="https://maturedmindinfo.blogspot.com">
     <img src="https://img.shields.io/badge/📖%20Explore%20All%20Articles-Visit%20Blog-blue?style=for-the-badge" alt="Visit Blog"/>
   </a>
 </p>
-
-## 📝 Latest Blog Posts
-
-> Sharing my journey through technology, productivity, personal growth, and software development.
-
-- 🚀 [The Rise of Technology and AI](https://maturedmindinfo.blogspot.com/2026/04/the-rise-of-technology-and-artificial.html)
-- 🧠 [How to Stay Consistent Even When You Feel Lazy](https://maturedmindinfo.blogspot.com/2026/04/stay-consistent-even-when-you-feel-lazy.html)
-- ⚡ [10 Powerful Ways to Improve Your Learning Skills and Study Smarter](https://maturedmindinfo.blogspot.com/2026/04/improve-learning-skills-study-smarter.html)
-
-➡️ **Explore all articles:** https://maturedmindinfo.blogspot.com
-
 
 ## 🔗 GitHub Profile
 
