@@ -48,7 +48,7 @@
 
 ----
 
-## 🛠️ Tech Stack
+## 💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 »»
 
 <table align="center">
   <tr>
@@ -89,20 +89,6 @@
     </td>
   </tr>
 </table>
-
-## 💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 »»
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,c,flutter&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github&theme=light" />
-</p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 »»
