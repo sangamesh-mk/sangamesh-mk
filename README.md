@@ -60,6 +60,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sangamesh-mk&theme=default)
 
+https://github-readme-streak-stats-eight.vercel.app/?user=sangamesh-mk&theme=default
 
 ## Activity Graph
 
