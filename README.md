@@ -90,6 +90,7 @@
   </tr>
 </table>
 
+---
 
 ## 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 »»
 
@@ -118,6 +119,8 @@
     <img src="https://img.shields.io/badge/📖%20Explore%20All%20Articles-Visit%20Blog-blue?style=for-the-badge" alt="Visit Blog"/>
   </a>
 </p>
+
+---
 
 ## 🔗 GitHub Profile
 
