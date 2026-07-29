@@ -96,7 +96,6 @@
 ## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sangamesh-mk)
 
-
 ## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-mk&theme=github-light)
@@ -125,7 +124,4 @@
 
 [Visit My GitHub Profile](https://github.com/sangamesh-mk)
 
-
-
 ⭐ **Always learning. Always building.**
-
