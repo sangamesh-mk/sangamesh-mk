@@ -12,7 +12,9 @@
 💻 Aspiring Software Engineer & Software Developer  
 🚀 Passionate about building technology, solving problems, and learning new skills.
 
+
 ---
+
 
 ## 🙎 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 »»
 
@@ -22,7 +24,9 @@
 - 🌐 Interested in **Web Development, App Development, and AI-based systems**
 - 🎯 Long-term goal: Become a **top software engineer and technology creator**
 
+
 ---
+
 
 ## 📈 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗙𝗢𝗖𝗨𝗦 »»
 
