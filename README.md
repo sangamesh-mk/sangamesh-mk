@@ -106,7 +106,7 @@
 
 --- 
 
-## 📝 Latest Blog Posts
+## 📝 𝗟𝗮𝘁𝗲𝘀𝘁 𝗕𝗹𝗼𝗴 𝗣𝗼𝘀𝘁𝘀
 
 >Sharing my journey through technology, productivity, personal growth, and software development.
 
