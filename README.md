@@ -126,6 +126,6 @@
 
 ## 🔗 GitHub Profile
 
-[Visit My GitHub Profile](https://github.com/sangamesh-mk)
+[𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲](https://github.com/sangamesh-mk)
 
 ⭐ **Always learning. Always building.**
