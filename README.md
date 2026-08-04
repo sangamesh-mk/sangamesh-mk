@@ -128,15 +128,4 @@
 
 ⭐ **Always learning. Always building.**
 
-📊 Languages & Technologies
-
-💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-mk&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
 
