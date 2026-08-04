@@ -127,3 +127,24 @@
 [𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲](https://github.com/sangamesh-mk)
 
 ⭐ **Always learning. Always building.**
+
+📊 Languages & Technologies
+
+💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-mk&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most Used Languages" />
+</p>🛠️ Languages & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,c,cpp,java,js,html,css,firebase,fastapi,postgres,docker,git,github,figma,vscode,arduino&perline=9" alt="Languages and Technologies" />
+</p>🚀 Current Development Stack
+
+📱 Mobile Development     → Dart • Flutter
+⚙️ Backend Development    → Python • FastAPI
+🗄️ Database               → PostgreSQL • Firebase
+🗺️ APIs & Services        → REST APIs • Google Maps Platform
+🔧 Version Control        → Git • GitHub
+🐳 DevOps                 → Docker • Deployment
+🎨 UI/UX                  → Figma
+🤖 Embedded / IoT         → Arduino • ESP8266 • ESP32
