@@ -20,9 +20,7 @@
 - 🌐 Interested in **Web Development, App Development, and AI-based systems**
 - 🎯 Long-term goal: Become a **top software engineer and technology creator**
 
-
 ---
-
 
 ## 📈 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗙𝗢𝗖𝗨𝗦 »»
 
@@ -47,7 +45,9 @@
 
 </p>
 
+
 ----
+
 
 ## 💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 »»
 
@@ -90,6 +90,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
