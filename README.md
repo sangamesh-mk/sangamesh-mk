@@ -10,8 +10,6 @@
 💻 Aspiring Software Engineer & Software Developer  
 🚀 Passionate about building technology, solving problems, and learning new skills.
 
-
-
 ---
 
 ## 🙎 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 »»
