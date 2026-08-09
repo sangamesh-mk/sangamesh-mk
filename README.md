@@ -22,8 +22,6 @@
 
 ---
 
-
-
 ## 📈 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗙𝗢𝗖𝗨𝗦 »»
 
 - Strengthening **problem-solving skills**
