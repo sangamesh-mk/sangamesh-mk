@@ -100,9 +100,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-mk&theme=github-light)
 
-
 --- 
-
 
 ## 📝 𝗟𝗮𝘁𝗲𝘀𝘁 𝗕𝗹𝗼𝗴 𝗣𝗼𝘀𝘁𝘀
 
