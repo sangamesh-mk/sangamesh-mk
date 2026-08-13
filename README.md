@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hiii😊👋" alt="Typing SVG" />
 </h1>
 
+
+
 ## 𝗜 𝗔𝗠 𝗦𝗔𝗡𝗚𝗔𝗠𝗘𝗦𝗛 𝗠𝗞
 
 🎓 Computer Science and Engineering Student  
